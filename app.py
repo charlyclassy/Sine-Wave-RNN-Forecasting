@@ -103,7 +103,7 @@ elif view == "Interactive prediction":
         c2.metric("Predicted next value", f"{predicted:.4f}")
         c3.metric("Absolute error", f"{abs(actual-predicted):.4f}")
         st.line_chart({"Previous 20 points": list(prior)+[np.nan], "Actual next": [np.nan]*win+[actual], "Predicted next": [np.nan]*win+[predicted]})
-        st.caption("A demonstration on a sine wave; it does not forecast real stock prices, weather or audio.")
+        
 
 elif view == "Training results":
     st.subheader("Model training and evaluation")
