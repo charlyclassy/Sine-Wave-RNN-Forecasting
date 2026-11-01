@@ -8,7 +8,9 @@ Predict the **next sine-wave value from the preceding 20 values**. The project u
 
 ## 🚀 Live Streamlit App
 
-[**Launch WaveSense AI Studio**](https://sine-wave-rnn-forecasting-kvtodccxygwz87am37mnbx.streamlit.app/)
+[**Launch WaveSense AI Studio**]## 🚀 Live Streamlit Application
+
+[Launch WaveSense AI Studio](https://sine-wave-rnn-forecasting-5l8crsnzgzhqeybcjz6by5.streamlit.app/)
 
 ## 📂 Project files
 
