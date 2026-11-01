@@ -1,0 +1,8 @@
+{
+    "model": "SimpleRNN",
+    "window_size": 20,
+    "hidden_units": 24,
+    "epochs": 12,
+    "test_mse": 2.538833905418869e-05,
+    "test_mae": 0.0042303684167563915
+}
